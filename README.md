@@ -1,51 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ali
 
-I'm Ali, an enthusiast in networking and system administration who enjoys building, breaking, and learning how things work. My journey is focused on mastering networking concepts and hands-on simulation tools to bring theory to life.
+Networking and System Administration enthusiast focused on understanding, designing, and operating reliable networked systems.
 
-My primary focus areas include Linux systems, scripting for automation, and exploring network architectures through platforms like EVE-NG and GNS3. Whether it's configuring routers in Packet Tracer, writing Bash scripts, or designing low-voltage electronic systems, I'm always driven by curiosity and precision.
+I work hands-on with networking concepts and infrastructure tools to turn theory into practical, testable systems. My interests center on Linux-based environments, automation through scripting, and simulating real-world network architectures.
 
-🛠 Skills and Interests:
+## What I Do
 
-    Networks
+- Design and simulate network topologies  
+- Configure and troubleshoot routing and switching  
+- Automate administrative and networking tasks  
+- Build labs to test real-world scenarios  
 
-    Linux
+## Focus Areas
 
-    Scripting
+- Computer Networking  
+- Linux Systems  
+- System Administration  
+- Network Simulation and Emulation  
 
-    Python
+## Tools & Technologies
 
-    EVE-NG
+- Linux  
+- Bash  
+- Python  
+- EVE-NG  
+- GNS3  
+- Packet Tracer  
+- Virtualization  
+- ELD (Low-voltage electronics design)  
 
-    Virtualization
+## Engineering Mindset
 
-    GNS3
+- Fundamentals-first approach  
+- Hands-on experimentation  
+- Precision and reproducibility  
+- Learn by building and breaking systems  
 
-    Packet Tracer
+## Quote
 
-    ELD
+> "In networking, every packet tells a story."
 
-    Bash
+## Collaboration
 
-"In networking, every packet tells a story."
-
-
-Feel free to explore my repositories, drop a star, or connect for collaboration. Let’s build, break, and learn together.
-
-
-
-
-
-<!--
-**Order52/Order52** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Explore the repositories, experiment with the labs, or connect for collaboration and learning.
